@@ -15,4 +15,4 @@ Plugin site address : [https://chrome.google.com/webstore/detail/twitter-better/
 ![](https://lh6.googleusercontent.com/dac1S5brBzXXEh9YVChk06ebhCBN0l3gQ3Mnh60PwpvWh_oQYTwxpDjmi1LM9edxDvAnQlWCABE=s640-h400-e365-rw)
 
 
-
+###To run 'grunt build' command to generate plugin package###
